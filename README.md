@@ -1,17 +1,7 @@
-![Logo](https://github.com/Novetus/Novetus_src/raw/master/Graphics/NOVETUS_new_final_smol.png)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2918741e76cd439a85f375186761725a)](https://www.codacy.com/gh/Novetus/Novetus_src/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Novetus/Novetus_src&amp;utm_campaign=Badge_Grade)
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-#
-
-Source code for Novetus' launcher, installer, LUA scripts, and server.
+Source code for Retroblox' launcher, installer, LUA scripts, and server.
 If you want to look at test applications built for Novetus' development, look here: https://github.com/Novetus/NovetusTests
 If you would like to look at the Places/Maps incuded in Novetus https://github.com/Novetus/Novetus-Map-Pack
 
-## Building (Windows)
-
-To build, this project requires Visual Studio 2017 or over. Modern versions of Novetus are compiled with Visual Studio 2022.
-Open either "Novetus/Novetus.sln" or "Novetus/Novetus.Tools.sln". Then, right click the solution and click "Restore Nuget Packages" before compiling.
- 
 ## Legal info:
 
 ROBLOX and the ROBLOX Clients were made by the ROBLOX Corporation.
@@ -69,25 +59,6 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON A
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-# Novetus Launcher, Script and query.php license (GPL 3.0)
-
-Novetus's query.php is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-Novetus's query.php is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with Novetus's query.php.  If not, see <https://www.gnu.org/licenses/>.
-
-Read it here https://github.com/Novetus/Novetus_src/blob/master/LICENSE-QUERY-PHP or in LICENSE-QUERY-PHP.txt.
-
-NOTE: In previous versions of Novetus, certain lines discussed about retroactive changes to the license following the 1.3 (MIT) and the 2.0 (GPL 3.0) license changes. These changes are legally NOT supposed to be retroactive due to the nature of open source licenses. ALL FUTURE, PRESENT AND PAST VERSIONS OF NOVETUS USE THE LICENSE THEY CAME WITH AND NO LICENSE IS APPLIED RETROACTIVELY.
 
 #
 
