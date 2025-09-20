@@ -1,6 +1,4 @@
 Source code for Retroblox' launcher, installer, LUA scripts, and server.
-If you want to look at test applications built for Novetus' development, look here: https://github.com/Novetus/NovetusTests
-If you would like to look at the Places/Maps incuded in Novetus https://github.com/Novetus/Novetus-Map-Pack
 
 ## Legal info:
 
